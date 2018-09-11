@@ -15,7 +15,7 @@
 
 int main()
 {
-	printf("SCORE = %i\n", AntiSandbox_Drivers());
+	printf("STATE = %i\n", AntiSandbox_Drivers());
 
 	getchar();
 	return 0;
